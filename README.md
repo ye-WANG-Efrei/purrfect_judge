@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="卡通法官猫.png" />
+<img src="卡通法官猫.png" style="width:50%"/>
 </div>
 
 # Can click [Here](https://ai.studio/apps/drive/13rF1CXIuhRT-unkyikQfNcG2Ww1FEZTI?fullscreenApplet=true) to see the demo
